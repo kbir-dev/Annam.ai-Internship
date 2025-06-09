@@ -1,0 +1,6 @@
+All weather and soil data for a location: https://open-meteo.com/en/docs
+
+
+Sales prediction dataset:
+Best - https://agmarknet.ceda.ashoka.edu.in/
+Good - https://upag.gov.in/dash-reports/pricesmonthcomparison?rtab=Analytics&rtype=dashboards
